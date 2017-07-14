@@ -9,4 +9,5 @@ Review criteriamenos
 For each question
 
 Does the plot appear to address the question being asked?
+
 Is the submitted R code appropriate for construction of the submitted plot?
